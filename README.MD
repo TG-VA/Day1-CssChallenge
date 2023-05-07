@@ -39,4 +39,4 @@ Un comienzo fácil en el desafío con un número de construcción personalizada 
 **Desarrollado con HTML Y CSS VAINILLA.**
 
 ### ✒️  Autor
-- [Tristan Venegas](https://github.com/TristanVenegas "Tristan Venegas") - Front end Developer.
+- [Tristan Venegas](https://github.com/TG-VA "Tristan Venegas") - Front end Developer.
